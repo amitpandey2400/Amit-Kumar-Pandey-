@@ -1,11 +1,7 @@
 <div align="center">
 
 ```
- __   ______  _   _ _____     _   _    _    __  __ _____
- \ \ / / __ \| | | |  __ \   | \ | |  / \  |  \/  | ____|
-  \ V / |  | | | | | |__) |  |  \| | / _ \ | |\/| |  _|
-   | || |__| | |_| |  _  /   | |\  |/ ___ \| |  | | |___
-   |_| \____/ \___/|_| \_\   |_| \_/_/   \_\_|  |_|_____|
+AMIT KUMAR PANDEY
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Backend Developer;Turning coffee ☕ into code;Building+Undergraduate" alt="Typing SVG"/>
