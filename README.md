@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:2E3440,50:88C0D0,100:EBCB8B&height=220&section=header&text=Amit Kumar Pandey&fontSize=55&fontColor=ECEFF4&animation=fadeIn&fontAlignY=38&desc=Backend Developer&descAlignY=62&descFontColor=D8DEE9" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=88C0D0&center=true&vCenter=true&width=700&lines=Northern+Lights+Developer+🌌;Backend Developer;Turning coffee ☕ into code;Building+Undergraduate" alt="Aurora Typing"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,14&height=200&section=header&text=Hi!+I'm+Amit Kumar Pandey+👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student+Developer+%40+Galgotias University&descAlignY=60" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&size=20&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Computer+Science+Student+🎓;Learning+to+code+one+bug+at+a+time+🐛;Turning coffee ☕ into code" alt="Student Typing"/>
 </div>
 
 ## ⌨️ About Me
@@ -12,46 +12,47 @@
   </a>
 </p>
 
-## 🌐 Connections
+## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-88C0D0?style=for-the-badge&logo=twitter&logoColor=2E3440"/></a>
-  <a href="https://linkedin.com/in/%20www.linkedin.com/in/amit-kumar-pandey-software-engineer-galgotias"><img src="https://img.shields.io/badge/LinkedIn-5E81AC?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_WEBSITE"><img src="https://img.shields.io/badge/Website-EBCB8B?style=for-the-badge&logo=google-chrome&logoColor=2E3440"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-BF616A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitpandey2400)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/amit-kumar-pandey-software-engineer-galgotias)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumarpandey2400@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_amit_24_)
 </p>
 
-## 🧊 Frost Stack
+## 🛠 Current Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=Java,Python,C&perline=8"/>
-  <br/><br/>
+  <br/>
   <img src="https://skillicons.dev/icons?i=huggingface&perline=8"/>
 </p>
 
-## 📊 Nordic Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=amitpandey2400&show_icons=true&theme=nord&hide_border=true" height="160"/>
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=amitpandey2400&layout=compact&theme=nord&hide_border=true" height="160"/>
+  <img src="https://github-readmeapp.vercel.app/api?username=amitpandey2400&show_icons=true&theme=vue&hide_border=true&count_private=true" height="155"/>
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=amitpandey2400&layout=compact&theme=vue&hide_border=true" height="155"/>
 </p>
 
-## 🌌 Language Aurora
+## 💡 Top Languages
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=amitpandey2400&layout=donut&theme=nord&hide_border=true"/>
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=amitpandey2400&layout=donut&theme=vue&hide_border=true"/>
 </p>
 
-## ❄️ Ice Streak
+## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amitpandey2400&theme=nord&hide_border=true" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=amitpandey2400&theme=vue&hide_border=true" width="55%"/>
 </p>
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitpandey2400&theme=nord&no-frame=true&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amitpandey2400&theme=algolia&no-frame=true&row=2&column=4"/>
 </p>
 
 ## 📈 Activity Graph
@@ -62,17 +63,11 @@
   </a>
 </p>
 
-## 🏔️ Expeditions
+## 🔨 Projects
 
-<p align="center">
-  <a href="https://github.com/amitpandey2400/AlokOptibrandz">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=amitpandey2400&repo=AlokOptibrandz&theme=nord&hide_border=true"/>
-  </a>
-  <a href="https://github.com/amitpandey2400/AI-Life-Admin">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=amitpandey2400&repo=AI-Life-Admin&theme=nord&hide_border=true"/>
-  </a>
-</p>
+- **[AlokOptibrandz](https://github.com/amitpandey2400/AlokOptibrandz)** — website
+- **[AI-Life-Admin](https://github.com/amitpandey2400/AI-Life-Admin)** — YOUR_PROJECT_2_DESC
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:2E3440,50:88C0D0,100:EBCB8B&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,14&height=100&section=footer" width="100%"/>
 </div>
