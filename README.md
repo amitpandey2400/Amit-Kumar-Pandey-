@@ -66,7 +66,8 @@
 ## 🔨 Projects
 
 - **[AlokOptibrandz](https://github.com/amitpandey2400/AlokOptibrandz)** — website
-- **[AI-Life-Admin](https://github.com/amitpandey2400/AI-Life-Admin)** — YOUR_PROJECT_2_DESC
+- **[AI-Life-Admin](https://github.com/amitpandey2400/AI-Life-Admin)** — hackfest project
+- **[Recipe_sharing_platform_Vedic_Bytes](https://github.com/amitpandey2400/Recipe_sharing_platform_Vedic_Bytes)** -Collage 3rd sem project
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,14&height=100&section=footer" width="100%"/>
