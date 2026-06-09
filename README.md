@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,14&height=200&section=header&text=Hi!+I'm+Amit Kumar Pandey+👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student+Developer+%40+Galgotias University&descAlignY=60" width="100%"/>
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&size=20&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Computer+Science+Student+🎓;Learning+to+code+one+bug+at+a+time+🐛;Turning coffee ☕ into code" alt="Student Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&size=20&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Computer+Science+Student+🎓;Learning+to+code+one+bug+at+a+time+🐛;Turning coffee ☕ into code" alt=""/>
 </div>
 
 ## ⌨️ About Me
